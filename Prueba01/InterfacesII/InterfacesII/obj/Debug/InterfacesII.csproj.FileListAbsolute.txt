@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\bin\Debug\InterfacesII.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\bin\Debug\InterfacesII.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\bin\Debug\InterfacesII.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\obj\Debug\InterfacesII.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\obj\Debug\InterfacesII.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\obj\Debug\InterfacesII.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\InterfacesII\InterfacesII\obj\Debug\InterfacesII.pdb

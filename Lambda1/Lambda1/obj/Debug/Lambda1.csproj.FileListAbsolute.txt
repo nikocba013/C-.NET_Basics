@@ -1,0 +1,6 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\bin\Debug\Lambda1.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\bin\Debug\Lambda1.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\bin\Debug\Lambda1.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\obj\Debug\Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\obj\Debug\Lambda1.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda1\Lambda1\obj\Debug\Lambda1.pdb

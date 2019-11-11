@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\bin\Debug\ReaderWriter.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\bin\Debug\ReaderWriter.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\bin\Debug\ReaderWriter.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\obj\Debug\ReaderWriter.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\obj\Debug\ReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\obj\Debug\ReaderWriter.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ReaderWriter\ReaderWriter\obj\Debug\ReaderWriter.pdb

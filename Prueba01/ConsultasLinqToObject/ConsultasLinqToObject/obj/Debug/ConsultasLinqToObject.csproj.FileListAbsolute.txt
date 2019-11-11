@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\bin\Debug\ConsultasLinqToObject.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\bin\Debug\ConsultasLinqToObject.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\bin\Debug\ConsultasLinqToObject.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\obj\Debug\ConsultasLinqToObject.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\obj\Debug\ConsultasLinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\obj\Debug\ConsultasLinqToObject.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ConsultasLinqToObject\ConsultasLinqToObject\obj\Debug\ConsultasLinqToObject.pdb

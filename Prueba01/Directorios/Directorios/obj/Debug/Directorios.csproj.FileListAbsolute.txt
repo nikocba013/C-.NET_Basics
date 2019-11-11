@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\bin\Debug\Directorios.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\bin\Debug\Directorios.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\bin\Debug\Directorios.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\obj\Debug\Directorios.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\obj\Debug\Directorios.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\obj\Debug\Directorios.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Directorios\Directorios\obj\Debug\Directorios.pdb

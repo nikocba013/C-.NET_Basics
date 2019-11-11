@@ -1,0 +1,10 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\bin\Debug\Proyecto_Escuela.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\bin\Debug\Proyecto_Escuela.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\bin\Debug\Proyecto_Escuela.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\bin\Debug\Objetos.dll
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\bin\Debug\Objetos.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\obj\Debug\Proyecto_Escuela.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\obj\Debug\Proyecto_Escuela.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\obj\Debug\Proyecto_Escuela.csproj.CopyComplete
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\obj\Debug\Proyecto_Escuela.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Escuela\Proyecto_Escuela\obj\Debug\Proyecto_Escuela.pdb

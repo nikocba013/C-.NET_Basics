@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\bin\Debug\OperacionesArchivos.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\bin\Debug\OperacionesArchivos.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\bin\Debug\OperacionesArchivos.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\obj\Debug\OperacionesArchivos.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\obj\Debug\OperacionesArchivos.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\obj\Debug\OperacionesArchivos.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\OperacionesArchivos\OperacionesArchivos\obj\Debug\OperacionesArchivos.pdb

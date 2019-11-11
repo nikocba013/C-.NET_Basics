@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Pruebas\Pruebas\obj\Debug\Pruebas.pdb

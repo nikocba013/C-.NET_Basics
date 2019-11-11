@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\bin\Debug\Zip.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\bin\Debug\Zip.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\bin\Debug\Zip.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\obj\Debug\Zip.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\obj\Debug\Zip.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\obj\Debug\Zip.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\Zip\Zip\obj\Debug\Zip.pdb

@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\bin\Debug\ExpresionesLambda1.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\bin\Debug\ExpresionesLambda1.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\bin\Debug\ExpresionesLambda1.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\obj\Debug\ExpresionesLambda1.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\obj\Debug\ExpresionesLambda1.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\obj\Debug\ExpresionesLambda1.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\ExpresionesLambda1\ExpresionesLambda1\obj\Debug\ExpresionesLambda1.pdb

@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\bin\Debug\Lambda_Where.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\bin\Debug\Lambda_Where.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\bin\Debug\Lambda_Where.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\obj\Debug\Lambda_Where.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\obj\Debug\Lambda_Where.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\obj\Debug\Lambda_Where.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Lambda_Where\Lambda_Where\obj\Debug\Lambda_Where.csprojAssemblyReference.cache

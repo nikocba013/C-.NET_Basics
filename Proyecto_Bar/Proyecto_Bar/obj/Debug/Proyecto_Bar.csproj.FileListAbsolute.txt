@@ -1,0 +1,10 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\bin\Debug\Proyecto_Bar.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\bin\Debug\Proyecto_Bar.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\bin\Debug\Proyecto_Bar.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\bin\Debug\Bar.dll
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\bin\Debug\Bar.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\obj\Debug\Proyecto_Bar.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\obj\Debug\Proyecto_Bar.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\obj\Debug\Proyecto_Bar.csproj.CopyComplete
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\obj\Debug\Proyecto_Bar.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Proyecto_Bar\obj\Debug\Proyecto_Bar.pdb

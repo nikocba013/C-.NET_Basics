@@ -1,0 +1,6 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\bin\Debug\Bar.dll
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\obj\Debug\Bar.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\obj\Debug\Bar.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\obj\Debug\Bar.dll
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Proyecto_Bar\Bar\obj\Debug\Bar.pdb

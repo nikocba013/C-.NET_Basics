@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\bin\Debug\App01.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\bin\Debug\App01.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\bin\Debug\App01.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\obj\Debug\Codigo_Pruebas.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\obj\Debug\Codigo_Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\obj\Debug\App01.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\Prueba01\App01\App01\obj\Debug\App01.pdb

@@ -1,0 +1,7 @@
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csprojAssemblyReference.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\nferreyra\Desktop\Proyect\C#\Curso_C#\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb
